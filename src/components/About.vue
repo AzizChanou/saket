@@ -14,7 +14,7 @@
 				<video
 					controls
 					poster="../assets/img/cta01.jpg"
-					src="../assets/img/banner.mp4"
+					src=""
 					class="w-full rounded shadow"
 				></video>
 				<h1 class="text-center text-4xl my-3 font-thin">QUI SOMMES NOUS ?</h1>
