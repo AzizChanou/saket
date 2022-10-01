@@ -1,5 +1,5 @@
 <template>
-	<main id="home" class="my-8 px-6 container max-w-6xl gap-6">
+	<main id="home" class="my-8 px-6 container max-w-6xl mx-auto gap-6">
 		<header class="text-center text-4xl my-3 font-thin">SATEK</header>
 		<p class="my-10 text-justify">
 			SATEK est une entreprise en développement au Bénin. Notre objectif est de

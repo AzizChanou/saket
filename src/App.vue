@@ -1,5 +1,5 @@
 <template>
-	<div v-if="pageIsReady">
+	<div v-if="pageIsReady" class="max-w-screen-xl mx-auto">
 		<NavBar />
 
 		<Ban />

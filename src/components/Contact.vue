@@ -1,5 +1,5 @@
 <template>
-	<main id="contact" class="my-8 px-6 container max-w-6xl gap-6">
+	<main id="contact" class="my-8 px-6 container max-w-6xl mx-auto gap-6">
 		<div class="space-y-6 md:space-y-0 md:flex md:flex-wrap gap-6 w-full">
 			<div
 				class="

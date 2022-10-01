@@ -1,5 +1,5 @@
 <template>
-	<main id="about" class="my-8 px-6 container max-w-6xl gap-6">
+	<main id="about" class="my-8 px-6 container max-w-6xl gap-6 mx-auto">
 		<div class="space-y-6 md:space-y-0 md:flex md:flex-wrap gap-6 w-full">
 			<div class="bg-white w-full text-justify shadow rounded p-10 font-thin">
 				<h1 class="text-center text-4xl my-3 font-thin">QUI SOMMES NOUS ?</h1>

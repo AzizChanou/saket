@@ -7,7 +7,7 @@
 			</h3>
 
 			<!-- Desktop View -->
-			<ul class="hidden space-x-4 lg:flex lg:space-x-8">
+			<ul class="hidden space-x-4 md:flex lg:space-x-8">
 				<li class="hover:text-blue-600">
 					<router-link :to="{ name: 'Home' }">Accueil</router-link>
 				</li>
@@ -30,7 +30,7 @@
 
 			<!-- Mobile Button -->
 			<button
-				class="flex lg:hidden items-center space-x-2"
+				class="flex md:hidden items-center space-x-2"
 				@click="menuToggle"
 			>
 				<font-awesome-icon :icon="['fas', 'bars']" />
@@ -39,7 +39,7 @@
 		</div>
 
 		<!-- Mobile View -->
-		<ul class="hidden mobile-menu lg:hidden divide-y">
+		<ul class="hidden mobile-menu md:hidden divide-y">
 			<li class="py-4 hover:text-blue-600">
 				<router-link :to="{ name: 'Home' }" @click="menuToggle"
 					>Accueil</router-link
