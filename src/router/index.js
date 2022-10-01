@@ -4,7 +4,7 @@ import {
 } from "vue-router";
 import Home from "../components/Home.vue";
 import About from "../components/About.vue";
-import Development from "../components/development.vue";
+import Development from "../components/Development.vue";
 import Contact from "../components/Contact.vue";
 import NotFound from "../views/NotFound.vue";
 
